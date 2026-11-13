@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="qtVlm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:qtVlm="http://www.meltemus.com">
+<rte>
+<name>day11poranek</name>
+<rtept lat="19.9059333333" lon="-59.4812150000">
+<time>2026-11-11T09:01:34Z</time>
+<name>R01</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="19.1475066038" lon="-59.9104522575">
+<time>2026-11-11T15:25:00Z</time>
+<name>R18</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="18.3333955579" lon="-60.4193577433">
+<time>2026-11-11T22:25:00Z</time>
+<name>R48</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="16.9874243858" lon="-61.3271918743">
+<time>2026-11-12T06:10:23Z</time>
+<name>R64</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="16.6675383488" lon="-61.5737580924">
+<time>2026-11-12T07:35:23Z</time>
+<name>R68</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="16.4589299698" lon="-61.7466713562">
+<time>2026-11-12T08:32:14Z</time>
+<name>R72</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="16.3876666667" lon="-61.7945000000">
+<time>2026-11-12T08:53:07Z</time>
+<name>R73</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+</rte>
+</gpx>

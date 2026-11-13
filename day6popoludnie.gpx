@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="qtVlm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:qtVlm="http://www.meltemus.com">
+<rte>
+<name>Routing22</name>
+<rtept lat="40.2856700000" lon="-40.6017166667">
+<time>2026-11-06T13:57:31Z</time>
+<name>R001</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="39.3368572880" lon="-41.4438760993">
+<time>2026-11-06T16:31:12Z</time>
+<name>R006</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="38.8244318045" lon="-41.9509907600">
+<time>2026-11-06T18:05:25Z</time>
+<name>R013</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="38.4375426840" lon="-42.3917007576">
+<time>2026-11-06T19:25:05Z</time>
+<name>R017</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="38.1630345012" lon="-42.7587196633">
+<time>2026-11-06T20:31:36Z</time>
+<name>R021</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="37.1443604946" lon="-44.3203674894">
+<time>2026-11-07T01:24:41Z</time>
+<name>R034</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="36.1418439144" lon="-45.9678146700">
+<time>2026-11-07T07:14:20Z</time>
+<name>R052</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="35.6325725120" lon="-47.0651510365">
+<time>2026-11-07T11:09:59Z</time>
+<name>R065</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="35.2469238776" lon="-48.4491606063">
+<time>2026-11-07T17:09:50Z</time>
+<name>R077</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="34.3361503973" lon="-49.0489254726">
+<time>2026-11-07T22:10:49Z</time>
+<name>R082</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="34.1381223916" lon="-49.2205833631">
+<time>2026-11-07T23:11:04Z</time>
+<name>R083</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="32.3192231538" lon="-50.9656331513">
+<time>2026-11-08T07:03:35Z</time>
+<name>R091</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="30.7879441070" lon="-52.5967923212">
+<time>2026-11-08T12:32:15Z</time>
+<name>R096</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="30.6284053221" lon="-53.0131091547">
+<time>2026-11-08T13:29:39Z</time>
+<name>R098</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="30.2288840211" lon="-54.5958080032">
+<time>2026-11-08T16:39:33Z</time>
+<name>R102</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="29.8725769309" lon="-55.7020042868">
+<time>2026-11-08T19:37:36Z</time>
+<name>R104</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="29.5403700676" lon="-56.2696551226">
+<time>2026-11-08T21:39:59Z</time>
+<name>R106</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="29.2003490807" lon="-56.4664107627">
+<time>2026-11-08T23:09:59Z</time>
+<name>R107</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="28.9077400127" lon="-56.5370910398">
+<time>2026-11-09T00:23:43Z</time>
+<name>R108</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="28.6372247760" lon="-56.7863230436">
+<time>2026-11-09T01:54:58Z</time>
+<name>R110</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="28.3588904855" lon="-56.7136969166">
+<time>2026-11-09T03:09:58Z</time>
+<name>R113</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="25.2600837401" lon="-58.3747212786">
+<time>2026-11-09T15:56:02Z</time>
+<name>R132</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="23.5540882191" lon="-59.5491505673">
+<time>2026-11-10T03:35:54Z</time>
+<name>R143</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="22.8675938975" lon="-60.4570489513">
+<time>2026-11-10T12:35:34Z</time>
+<name>R144</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+<rtept lat="16.3876666667" lon="-61.7945000000">
+<time>2026-11-12T08:14:22Z</time>
+<name>R219</name>
+<type>WPT</type>
+<sym>square</sym>
+</rtept>
+</rte>
+</gpx>
